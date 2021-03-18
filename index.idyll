@@ -82,7 +82,7 @@
     can be expressed mathematically as follows:
 
     [equation display:true]
-      \hat{f}(x) =  \sum_{\text{observations}}^{K\left(\frac{x - \text{observation}}{\text{bandwidth}})}
+      \hat{f}(x) =  \sum_{\text{observations}}^{K\left(\frac{x - \text{observation}}{\text{bandwidth}}\right)}
     [/equation]
 
     The variable [equation latex:"K" /] represents the kernel function. Using different
